@@ -22,4 +22,3 @@ type Props = {
   );
   
   export default Item;
-  
